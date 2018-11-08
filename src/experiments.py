@@ -61,7 +61,6 @@ xmax = max(points[:,[0]])
 plt.plot(points[:,[0]], points[:,[1]],'bo')
 
 
-
 coeff = np.zeros(rank)
 print("After {0} iterations coeff = {1}, error = {2}".format(0, coeff, sum_of_squares_error(coeff, points)))
 
