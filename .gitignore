@@ -1,3 +1,10 @@
 /PythonDeepLearning/nbproject/private/
 /PythonDeepLearning/.ipynb_checkpoints
 /PythonDeepLearning/src/.ipynb_checkpoints
+/Deeplearning4j/target/
+/PythonDeepLearning/src/dataset/
+/PythonDeepLearning/src/mnist_mlp.h5
+/PythonDeepLearning/src/mnist_cnn.json
+/PythonDeepLearning/src/mnist_mlp.json
+/PythonDeepLearning/src/mnist_cnn.h5
+/PythonDeepLearning/src/sales-of-shampoo-over-a-three-ye.xlsx
